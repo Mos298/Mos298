@@ -14,6 +14,12 @@
   <a href="https://www.instagram.com/mohammedosila?igsh=MXZiZDdqNndzZmkzaQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
+  <br/>
+
+  <a href="https://t.me/Mosila298" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
 </div>
 
@@ -27,6 +33,8 @@
 
 - 👨‍💻 I'm a **Software Engineer** & **Web Developer** specializing in building scalable backend systems.
 - 🔭 I’m currently working on **Node.js Projects**.
+- 🐧 I am proficient in **Linux** environments and **Terminal** commands.
+- 🧩 I possess strong **Problem Solving** skills & Algorithm knowledge.
 - 🛳️ I use **Docker** to containerize applications efficiently.
 - 💾 Experienced with both **SQL Server** & **MySQL**.
 - 💻 I use daily: **.js**, **.py**, **.cpp**, **.cs**, **.sql**
@@ -43,9 +51,14 @@
   <br/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="65" height="65"/>
-  
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="65" height="65"/>
+
+  <br/>
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="65" height="65"/>
 </p>
