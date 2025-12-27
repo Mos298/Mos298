@@ -41,7 +41,7 @@ I am a passionate Software Engineer and Web Developer specializing in building s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&theme=dark&hide_border=true" height="160" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&layout=compact&show_icons=true&theme=dark&hide_border=true" height="160" alt="languages graph" />
 
 </div>
