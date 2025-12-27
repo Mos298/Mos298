@@ -1,4 +1,6 @@
-# Hi there, I'm Mohammed Osila! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Mohammed+Osila!;I'm+a+Software+Engineer.;I+Build+Scalable+Backends." alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mos298&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-osila" />
