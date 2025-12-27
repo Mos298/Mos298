@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Mohammed+Osila!;I'm+a+Software+Engineer.;I+Build+Scalable+Backends." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=hHi+there,+I'm+Mohammed+Osila!;I'm+a+Software+Engineer.;I+Build+Scalable+Backends." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="50" alt="Smooth Blue Line" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="35" />
 </div>
 
 <div align="center">
@@ -35,7 +43,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
 </div>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 👨‍💻 I'm a **Software Engineer** & **Web Developer** specializing in building scalable backend systems.
 - 🔭 I’m currently working on **Node.js Projects**.
@@ -81,20 +89,22 @@
   
   <br/><br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mos298&layout=compact&langs_count=8&card_width=320&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298 Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mos298&layout=compact&langs_count=8&card_width=320&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298 Langs" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mos298&theme=react&hide_border=true&background=0D1117&ring=F9C80E&fire=F9C80E&currFire=F9C80E" alt="Mos298" />
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mos298&theme=react&hide_border=true&background=0D1117&ring=F9C80E&fire=F9C80E&currFire=F9C80E" alt="Mos298 Streak" />
   </p>
 
 </div>
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </a>
