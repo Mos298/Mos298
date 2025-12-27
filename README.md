@@ -39,5 +39,5 @@ I am a passionate Software Engineer and Web Developer specializing in building s
 
 ### 📊 GitHub Stats
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&show_icons=true&theme=dark)
