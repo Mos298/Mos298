@@ -1,6 +1,10 @@
 # Hi there, I'm Mohammed Osila! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mos298&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-osila" />
+</div>
+
+<div align="center">
 
   <a href="mailto:mohommodosila298@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -73,7 +77,8 @@
   
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mos298&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 
 </div>
 
