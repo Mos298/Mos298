@@ -73,12 +73,20 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Mos298&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mos298&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Mos298" />
+  </a>
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mos298&layout=compact&langs_count=8&card_width=320&theme=react&hide_border=true&bg_color=0D1117" alt="Mos298" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mos298&theme=react&hide_border=true&background=0D1117&ring=F9C80E&fire=F9C80E&currFire=F9C80E" alt="Mos298" />
+  </p>
 
 </div>
 
