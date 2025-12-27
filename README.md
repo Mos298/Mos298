@@ -37,11 +37,15 @@ I am a passionate Software Engineer and Web Developer specializing in building s
 
 ---
 
-### 📊 GitHub Stats
+
+### 🏆 GitHub Trophies & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mos298&show_icons=true&theme=dark&hide_border=true" height="160" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mos298&layout=compact&show_icons=true&theme=dark&hide_border=true" height="160" alt="languages graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mos298&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mos298&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
